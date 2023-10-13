@@ -2,7 +2,7 @@
 
 [<<Python-Coding-Resources](https://github.com/jingwora/Python-Coding-Resources/tree/main)
 
-Proper naming conventions, outlined in PEP 8, are essential for code readability. While new Python assets should adhere to these guidelines, existing libraries with established styles should maintain their internal consistency. Furthermore, avoid overly generic names and ensure, as per PEP 3131, that identifiers in the standard library remain ASCII compatible. Below, we'll explore the recommended naming conventions for prevalent Python objects.
+Proper naming conventions, outlined in PEP 8, are essential for code readability. Embracing these naming  ensures your Python code remains accessible, readable, and maintainable. These standards promote clarity, simplify the onboarding process for new contributors, and contribute to the cohesiveness of the Python community. Below, we'll explore the recommended naming conventions for prevalent Python objects.
 
 ---
 
@@ -110,6 +110,4 @@ def register_user(first_name, last_name):
     pass
 ```
 
----
 
-Embracing these naming conventions ensures your Python code remains accessible, readable, and maintainable. These standards promote clarity, simplify the onboarding process for new contributors, and contribute to the cohesiveness of the Python community.
