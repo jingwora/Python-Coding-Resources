@@ -2,7 +2,7 @@
 
 [<<Python-Coding-Resources](https://github.com/jingwora/Python-Coding-Resources/tree/main)
 
-A common pitfall for novice Python developers is misnaming entities like variables and functions. Proper naming conventions, outlined in PEP 8, are essential for code readability. While new Python assets should adhere to these guidelines, existing libraries with established styles should maintain their internal consistency. Furthermore, avoid overly generic names and ensure, as per PEP 3131, that identifiers in the standard library remain ASCII compatible. Below, we'll explore the recommended naming conventions for prevalent Python objects.
+Proper naming conventions, outlined in PEP 8, are essential for code readability. While new Python assets should adhere to these guidelines, existing libraries with established styles should maintain their internal consistency. Furthermore, avoid overly generic names and ensure, as per PEP 3131, that identifiers in the standard library remain ASCII compatible. Below, we'll explore the recommended naming conventions for prevalent Python objects.
 
 ---
 
