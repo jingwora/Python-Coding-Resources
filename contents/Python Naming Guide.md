@@ -1,5 +1,7 @@
 # Python Naming Guide
 
+[<<Python-Coding-Resources](https://github.com/jingwora/Python-Coding-Resources/tree/main)
+
 ### Python Naming Conventions: A Comprehensive Guide
 
 In the vast universe of programming, naming conventions serve as crucial signposts. They ensure that code remains readable and maintainable, not just for the original author, but for all future contributors and reviewers. Python, known for its clear syntax and emphasis on readability, provides a set of conventions that developers are encouraged to follow. This article will delve into the widely accepted Python naming conventions for packages, modules, classes, type variables, constants, functions, methods, and parameters.
