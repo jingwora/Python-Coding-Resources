@@ -53,3 +53,6 @@ This guide introduces Python best practices, from the foundational PEP 8 standar
 ## Contents
 
 - [Python Naming Guide](https://github.com/jingwora/Python-Coding-Resources/blob/main/contents/Python%20Naming%20Guide.md)
+- [Python-Clean-Code](https://jingwora.github.io/contents/articles/Python-Clean-Code.html)
+- [Python_Logging_Best_Practices](https://jingwora.github.io/contents/articles/Python_Logging_Best_Practices.html)
+- [Python-Environment](https://jingwora.github.io/contents/articles/Python-Environment.html)
