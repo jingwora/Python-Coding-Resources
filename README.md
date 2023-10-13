@@ -2,12 +2,6 @@
 
 A curated collection of Python coding resources, tutorials, and best practices.
 
-
-## Contents
-
-- [Python Naming Guide](https://github.com/jingwora/Python-Coding-Resources/blob/main/contents/Python%20Naming%20Guide.md)
-
-
 ## Python Best Practices for Better Code
 
 This guide introduces Python best practices, from the foundational PEP 8 standards to advanced techniques for code formatting, logging, commenting, and documentation. 
@@ -55,3 +49,8 @@ Use virtualenv package for environment creation.
 Proper naming of variables, classes, functions is crucial for readability.
 Follow PEP 8 guidelines for naming.
 Avoid general or non-ASCII names; prioritize internal consistency.
+
+
+## Contents
+
+- [Python Naming Guide](https://github.com/jingwora/Python-Coding-Resources/blob/main/contents/Python%20Naming%20Guide.md)
