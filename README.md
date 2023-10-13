@@ -10,9 +10,7 @@ A curated collection of Python coding resources, tutorials, and best practices.
 
 ## Python Best Practices for Better Code
 
-Coding: Art of writing instructions for computers.
-Importance of readable, maintainable, and scalable code for effective communication.
-Python best practices are largely based on PEP 8.
+This guide introduces Python best practices, from the foundational PEP 8 standards to advanced techniques for code formatting, logging, commenting, and documentation. 
 
 ### What is PEP 8?
 Style guide for Python promoting readability and consistency.
