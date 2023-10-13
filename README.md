@@ -14,7 +14,7 @@ This guide introduces Python best practices, from the foundational PEP 8 standar
 - Python Best Practices for Code Quality
   - Importance of indentation in Python.
   - Adhere to PEP 8's recommendation of 79 characters per line.
-  - Use blank lines for organizing code.
+  - Use blank lines for organizing code. Surround top-level function and class definitions with two blank lines.
   - Utilize linters and formatters for code quality.
   - Familiarize with Python principles like the Zen of Python.
 
